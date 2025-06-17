@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PC Asset Server</title>
+</head>
+<body>
+    <h1>Welcome to PC Asset Server</h1>
+</body>
+</html>
